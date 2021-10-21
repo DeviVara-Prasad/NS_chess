@@ -1,20 +1,28 @@
-body{
+center{
     background-image: url('https://cdn.pixabay.com/photo/2016/02/22/09/44/chess-1215079_1280.jpg');
+}
+marquee{
+  color: white;
+  background: black;
+}
+
+h3{
+  margin: 0px;
 }
 #chess{
     background-color: grey;
     height: 500px;
     width: 500px;
-    border: 1px solid black;
+    border: 2px solid black;
   }
-  #black{
+  .black{
     background-color: black;
     height: 62.5px;
     width: 62.5px;
     float: left;
     
   }
-  #white{
+  .white{
     float: left;
     background-color: white;
     height: 62.5px;
