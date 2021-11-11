@@ -10,7 +10,7 @@ h3{
   margin: 0px;
 }
 #chess{
-    background-color: grey;
+    background-color: blue;
     height: 500px;
     width: 500px;
     border: 2px solid black;
@@ -29,5 +29,11 @@ h3{
     width: 62.5px;
   }
   .troop{
-    background: red;
+      background-image: url("file:///C:/Users/PRASAD/Desktop/Vs%20Code/Ns_chess/42-427051_white-chess-knight-icon.jpg") !important;
+      background-size: 62.5px 62.5px;
   }
+  [chess='pos']{
+      background-color: red;
+      border-radius:25px;
+  }
+  
