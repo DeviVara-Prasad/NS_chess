@@ -29,7 +29,7 @@ h3{
     width: 62.5px;
   }
   .troop{
-      background-image: url("https://github.com/DeviVara-Prasad/NS_chess/blob/master/42-427051_white-chess-knight-icon.jpg") !important;
+      background-image: url("https://raw.githubusercontent.com/DeviVara-Prasad/NS_chess/master/42-427051_white-chess-knight-icon.jpg") !important;
       background-size: 62.5px 62.5px;
   }
   [chess='pos']{
